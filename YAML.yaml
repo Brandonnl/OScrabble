@@ -1,0 +1,28 @@
+---
+# Members of your group.
+group:
+  - name: Youssef Attia
+    netid: ya79
+  - name: Ashwin Tayur
+    netid: ast76
+  - name: Alan Han
+    netid: ayh9
+  - name: Brandon Lu
+    netid: bl533
+# Your PM.
+pm:
+  name: Vivian Dai
+  netid: vzd2
+# Set to false if you don't want your gallery entry to be public.
+publish: true
+# Pithy title
+title: "Very Cool Scrabble"
+# OK if this is a Cornell Github link, but public gallery viewers won't be able to see it.
+git-repo: "https://github.coecis.cornell.edu/ayh9/project-mmmcx"
+# If you have no demo screencast, replace the url string with an empty string ""
+demo-video-url: ""
+# Write a short, attention-grabbing description of your project.
+desc: >
+  Our project is an implementation of the Scrabble game. We currently have a
+  terminal interface from 2-4 players and scoring is based off of the letters your place. 
+  This scrabble is very cool

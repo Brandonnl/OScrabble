@@ -1,0 +1,3 @@
+(executable
+ (name test)
+ (libraries Scrabble ounit2))
